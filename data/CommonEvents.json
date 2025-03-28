@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":357,"indent":0,"parameters":["Alpha_ABSZ","ABSEventSettings","ABS Enemy Configurate",{"MainGroup":"","viewRadius":"5","returnRadius":"12","onDeath":"","MapGroup":"","shatterEffect":"true","deadSwitch":"0","eraseOnDead":"true","VisualGroup":"","UIInfo":"true","faceName":"","faceIndex":"0","AnimationGroup":"","hitAnimationId":"1"}]},{"code":657,"indent":0,"parameters":["Main Group = "]},{"code":657,"indent":0,"parameters":["View Radius = 5"]},{"code":657,"indent":0,"parameters":["Return Radius = 12"]},{"code":657,"indent":0,"parameters":["On Death = "]},{"code":657,"indent":0,"parameters":["Map Group = "]},{"code":657,"indent":0,"parameters":["Shatter Effect? = true"]},{"code":657,"indent":0,"parameters":["Dead Switch = 0"]},{"code":657,"indent":0,"parameters":["Erase on Dead? = true"]},{"code":657,"indent":0,"parameters":["Visual Group = "]},{"code":657,"indent":0,"parameters":["Show UI Info? = true"]},{"code":657,"indent":0,"parameters":["Face Name = "]},{"code":657,"indent":0,"parameters":["Face Index = 0"]},{"code":657,"indent":0,"parameters":["Animation Group = "]},{"code":657,"indent":0,"parameters":["Hit Animation = 1"]},{"code":0,"indent":0,"parameters":[]}],"name":"active battle system","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

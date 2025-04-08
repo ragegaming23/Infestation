@@ -1,21 +1,22 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Untainted Map","order":1,"parentId":0,"scrollX":1368,"scrollY":893.4545454545455},
-{"id":2,"expanded":true,"name":"untainted starting area","order":14,"parentId":1,"scrollX":928.5,"scrollY":510.75,"quick":false},
-{"id":3,"expanded":true,"name":"tainted Map","order":2,"parentId":1,"scrollX":1368,"scrollY":1111.6363636363637},
+{"id":2,"expanded":false,"name":"untainted starting area","order":14,"parentId":1,"scrollX":928.5,"scrollY":510.75,"quick":false},
+{"id":3,"expanded":false,"name":"tainted Map","order":2,"parentId":1,"scrollX":1368,"scrollY":1111.6363636363637},
 {"id":4,"expanded":false,"name":"tainted starting area","order":15,"parentId":2,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
-{"id":5,"expanded":true,"name":"test battle area","order":16,"parentId":2,"scrollX":704.5,"scrollY":388.5,"quick":false},
+{"id":5,"expanded":false,"name":"test battle area","order":16,"parentId":2,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
 {"id":6,"expanded":true,"name":"Temple02","order":13,"parentId":13,"scrollX":1221.4285714285713,"scrollY":714,"quick":false},
 {"id":7,"expanded":false,"name":"Temple01","order":11,"parentId":11,"scrollX":1226.5714285714284,"scrollY":679.7142857142857,"quick":false},
 {"id":8,"expanded":true,"name":"Castle","order":3,"parentId":3,"scrollX":1368,"scrollY":2189.4545454545455,"quick":false},
 {"id":9,"expanded":true,"name":"Village01","order":5,"parentId":12,"scrollX":939.3333333333334,"scrollY":719.3333333333334,"quick":false},
 {"id":10,"expanded":false,"name":"Village02","order":8,"parentId":3,"scrollX":927.5,"scrollY":594.5,"quick":false},
 {"id":11,"expanded":false,"name":"Village03","order":10,"parentId":3,"scrollX":863.5,"scrollY":666.5,"quick":false},
-{"id":12,"expanded":true,"name":"Village01","order":4,"parentId":3,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
+{"id":12,"expanded":false,"name":"Village01","order":4,"parentId":3,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
 {"id":13,"expanded":false,"name":"Village04","order":12,"parentId":3,"scrollX":919.5,"scrollY":697.5,"quick":false},
 {"id":14,"expanded":false,"name":"MAP014","order":17,"parentId":5,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
 {"id":15,"expanded":false,"name":"Village02","order":9,"parentId":10,"scrollX":927.5,"scrollY":388.5,"quick":false},
-{"id":16,"expanded":false,"name":"MAP016","order":18,"parentId":1,"scrollX":3907.636363636364,"scrollY":980.7272727272727,"quick":false},
+{"id":16,"expanded":true,"name":"MAP016","order":18,"parentId":1,"scrollX":5561.142857142857,"scrollY":3137.142857142857,"quick":false},
 {"id":17,"expanded":false,"name":"Village01House01","order":6,"parentId":12,"scrollX":939.3333333333334,"scrollY":528.6666666666666,"quick":false},
-{"id":18,"expanded":false,"name":"Store","order":7,"parentId":12,"scrollX":939.3333333333334,"scrollY":518,"quick":false}
+{"id":18,"expanded":false,"name":"Store","order":7,"parentId":12,"scrollX":939.3333333333334,"scrollY":518,"quick":false},
+{"id":19,"expanded":false,"name":"Bandit camp","order":19,"parentId":16,"scrollX":811,"scrollY":457.5,"quick":false}
 ]

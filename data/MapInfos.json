@@ -15,8 +15,8 @@ null,
 {"id":13,"expanded":false,"name":"Village04","order":12,"parentId":3,"scrollX":919.5,"scrollY":697.5,"quick":false},
 {"id":14,"expanded":false,"name":"MAP014","order":17,"parentId":5,"scrollX":1769.4545454545455,"scrollY":980.7272727272727,"quick":false},
 {"id":15,"expanded":false,"name":"Village02","order":9,"parentId":10,"scrollX":927.5,"scrollY":388.5,"quick":false},
-{"id":16,"expanded":true,"name":"MAP016","order":18,"parentId":1,"scrollX":5561.142857142857,"scrollY":3137.142857142857,"quick":false},
+{"id":16,"expanded":true,"name":"MAP016","order":18,"parentId":1,"scrollX":5529,"scrollY":1711.5,"quick":false},
 {"id":17,"expanded":false,"name":"Village01House01","order":6,"parentId":12,"scrollX":939.3333333333334,"scrollY":528.6666666666666,"quick":false},
 {"id":18,"expanded":false,"name":"Store","order":7,"parentId":12,"scrollX":939.3333333333334,"scrollY":518,"quick":false},
-{"id":19,"expanded":false,"name":"Bandit camp","order":19,"parentId":16,"scrollX":811,"scrollY":457.5,"quick":false}
+{"id":19,"expanded":false,"name":"Bandit camp","order":19,"parentId":16,"scrollX":1946.3999999999999,"scrollY":1078.8,"quick":false}
 ]
